@@ -1,3 +1,13 @@
-pandas
-numpy
-matplotlib
+Python 3
+
+Pandas 
+# data loading, filtering, cleaning, grouping, aggregation and transformation
+
+NumPy 
+# numerical calculations and percentile-based analysis
+
+Matplotlib
+# data visualization
+
+Google Colab / Jupyter Notebook 
+# notebook execution
